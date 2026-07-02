@@ -1,6 +1,6 @@
 public with sharing class SimpleInterestCalculator {
 
-    // Method to calculate simple interest
+    // Method to calculate simple interest hi sonu
     public static Decimal calculateInterest(Decimal principal, Decimal rate, Integer tim) {
         
         // Validation
